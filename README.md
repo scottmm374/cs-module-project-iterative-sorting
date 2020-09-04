@@ -24,8 +24,8 @@ As you begin interviewing for jobs, you will often be expected to be able to imp
 - [ ] Read through the descriptions of the `bubble_sort` and `selection_sort` algorithms
 - [ ] Implement `bubble_sort` and `selection_sort` in [iterative_sorting.py](src/iterative_sorting/iterative_sorting.py)
 - [ ] Test your implementation by running `test_iterative.py`
-- [ ] Implement all the methods in the [searching.py](src/searching/searching.py) file in the [searching](src/searching) directory.
-- [ ] Test your implementation of the searching methods by running `test_searching.py`.
+- [x] Implement all the methods in the [searching.py](src/searching/searching.py) file in the [searching](src/searching) directory.
+- [x] Test your implementation of the searching methods by running `test_searching.py`.
 
 ## Stretch goals
 
